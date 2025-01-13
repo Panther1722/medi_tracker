@@ -9,12 +9,9 @@ MediTracker is a command-line application developed in Rust that allows users to
 - **Add Medication**: Allows adding medications to a patient, specifying the medication name and schedule.
 - **View Medications**: Shows all medications for a patient, including their schedule.
 - **Export to CSV**: Exports patient data along with medications to a CSV file for easy sharing or backup.
-
-## Features Not Yet Implemented
-
-- Remove Medication
-- Update Medication
-- Remove Patient
+- **Remove Medication**: Effortlessly remove outdated or incorrect medication records to ensure accuracy and up-to-date treatment plans.
+- **Update Medication**: Quickly update medication details to reflect changes in treatment schedules or prescriptions with ease.
+- **Remove Patient**: Seamlessly remove patient records when they are no longer required, maintaining an organized database.
 
 ## Installation
 
